@@ -1,5 +1,7 @@
 # Easybank
 
+<img src="https://github.com/SoniaSayago/LIM014-card-validation/blob/master/src/img/Beige%20Soft%20Minimalist%20Mockup%20Launching%20New%20Website%20Instagram%20Post.png">
+
 ## Índice
 
 * [1. Resumen del proyecto](#1-resumen-del-proyecto)
